@@ -38,7 +38,7 @@ Siguiendo las mejores prácticas de seguridad, las credenciales sensibles y par�
 
 ---
 
-🚀 Instrucciones de Ejecución
+ Instrucciones de Ejecución
 
 Prerrequisitos
 - Java JDK 17 o superior
